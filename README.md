@@ -65,7 +65,7 @@ projeto/
 │   └── OctopusTaxMiddleware.exe
 ├── logs/
 │   └── octopusTax-middleware.log
-├── main.py
+├── middleware.py
 ├── build.py
 ├── requirements.txt
 └── README.md
@@ -85,7 +85,7 @@ Os logs são gerados automaticamente em:
 
 ### Desenvolvimento
 ```bash
-python main.py
+python middleware.py
 ```
 
 ## 🔍 Monitoramento
