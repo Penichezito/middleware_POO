@@ -1,7 +1,7 @@
 # Middleware Automation Programs
 
 ## 📋 Descrição
-O OctopusTax Middleware é um serviço de automação que gerencia e executa tarefas programadas através de uma API central. O sistema monitora continuamente uma fila de tarefas, executando programas específicos conforme necessário e mantendo registros detalhados de todas as operações.
+Esse Middleware é um serviço de automação que gerencia e executa tarefas programadas através de uma API central. O sistema monitora continuamente uma fila de tarefas, executando programas específicos conforme necessário e mantendo registros detalhados de todas as operações.
 
 ## 🚀 Funcionalidades
 - Monitoramento contínuo de tarefas via API
